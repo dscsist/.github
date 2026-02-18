@@ -34,4 +34,4 @@ DSC SIST is a student-led technical community empowering students through hands-
 ---
 
 <div align="center">
-Made with ❤️ by DSC SIS
+Made with ❤️ by DSC SIST
