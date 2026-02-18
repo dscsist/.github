@@ -1,25 +1,37 @@
+<div align="center">
+
 # 🚀 DSC SIST
 
-Developer Student Club  
-Sathyabama Institute of Science and Technology  
+### Developer Student Club  
+Sathyabama Institute of Science and Technology
 
-## 🌟 About Us
-DSC SIST is a student-led technical community focused on innovation, collaboration, and open-source development.
-
-## 🔥 What We Do
-- Workshops
-- Hackathons
-- Open Source Projects
-- Technical Events
-- Peer Learning
-
-## 👨‍💻 Domains
-- Web Development
-- App Development
-- AI/ML
-- Cybersecurity
-- Cloud
+Build. Learn. Innovate.
 
 ---
 
-Made with ❤️ by DSC SIST
+</div>
+
+## 🌟 About Us
+
+DSC SIST is a student-led technical community empowering students through hands-on learning, collaboration, and open-source development.
+
+## 🔥 What We Do
+
+- 💻 Technical Workshops
+- 🚀 Hackathons
+- 🌍 Open Source Contributions
+- 🎯 Competitive Programming
+- ☁️ Cloud & AI Sessions
+
+## 👨‍💻 Focus Domains
+
+- Web Development  
+- App Development  
+- Artificial Intelligence  
+- Cybersecurity  
+- Cloud & DevOps  
+
+---
+
+<div align="center">
+Made with ❤️ by DSC SIS
