@@ -1,4 +1,6 @@
-<div align="center">
+<p align="center">
+  <img src="./banner.png" alt="DSC SIST Banner" width="100%" />
+</p>
 
 # 🚀 DSC SIST
 
