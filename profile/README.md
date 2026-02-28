@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="DSC SIST Banner" width="100%" />
+  <img src="../DEVELOPER STUDENT CLUB.png" alt="DSC SIST Banner" width="100%" />
 </p>
 
 # 🚀 DSC SIST
